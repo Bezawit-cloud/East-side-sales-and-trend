@@ -1,4 +1,4 @@
-# 📊 Sales Trend & Metrics Dashboard – Power BI
+#  Sales Trend & Metrics Dashboard – Power BI
 
 An interactive Power BI dashboard that visualizes monthly sales trends, category performance, and key metrics. This project uses dynamic tooltips, buttons, and filters to enhance the exploration experience and uncover data-driven insights.
 
@@ -35,16 +35,10 @@ An interactive Power BI dashboard that visualizes monthly sales trends, category
 ### 📅 geography
 ![geography](photo/image3.png)
 
-
-
-
-
-
-## 🙋‍♀️ About Me
+ About Me
 
 I'm **Bezawit**, an aspiring analyst passionate about transforming raw data into valuable insights through storytelling, visualization, and practical business questions.  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bezawit-assefa-4964592aa)
 
-> 💡 *Feel free to star ⭐ the repo if you found this project helpful or inspiring!*
 
-"# East-side-sales-and-trend" 
+
