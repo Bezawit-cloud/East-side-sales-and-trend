@@ -25,11 +25,8 @@ An interactive Power BI dashboard that visualizes monthly sales trends, category
 
 ## 🖼️ Dashboard Previews
 
-<p float="left">
-  <img src="screenshots/image1.png" width="30%" />
-  <img src="screenshots/image2.png" width="30%" />
-  <img src="screenshots/image3.png" width="30%" />
-</p>
+![Dashboard Preview](image1.png)
+
 
 ## 🔗 Project Files & Links
 
