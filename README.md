@@ -40,7 +40,7 @@ An interactive Power BI dashboard that visualizes monthly sales trends, category
 ## 🙋‍♀️ About Me
 
 I'm **Bezawit**, an aspiring analyst passionate about transforming raw data into valuable insights through storytelling, visualization, and practical business questions.  
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link-here)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bezawit-assefa-4964592aa)
 
 > 💡 *Feel free to star ⭐ the repo if you found this project helpful or inspiring!*
 
