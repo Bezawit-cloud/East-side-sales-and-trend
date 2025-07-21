@@ -2,47 +2,43 @@
 
 An interactive Power BI dashboard that visualizes monthly sales trends, category performance, and key metrics. This project uses dynamic tooltips, buttons, and filters to enhance the exploration experience and uncover data-driven insights.
 
-## 🔍 Key Features
+##  Key Features
 
-- 📅 Monthly Sales Trend Visualization
-- 📦 Category-Wise Performance Breakdown
-- 💰 KPI Cards (Net Sales, Units Sold, Net Margin)
-- 🧭 Dynamic Tooltips for added context
-- 🔘 Interactive Filters and Category Buttons
+-  Monthly Sales Trend Visualization
+-  Category-Wise Performance Breakdown
+-  KPI Cards (Net Sales, Units Sold, Net Margin)
+-  Dynamic Tooltips for added context
+-  Interactive Filters and Category Buttons
 
-## 📈 Insights Answered
+## Insights Answered
 
 - What is the **category-wise sales performance** for the year?
 - Which month had the highest and lowest net sales by category?
 - How do different categories perform across months (e.g., Home Furniture peaks in November)?
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Power BI** – for dashboard creation
 - **Excel** – for data preparation
 - **DAX** – for calculated measures
 - **Tooltips** – to add interactivity and explain data clearly
 
-## 🖼️ Dashboard Previews
 
-## 📊 Dashboard Previews
+##  Dashboard Previews
 
-### 🪟 Sales Overview
+###  Sales Overview
 ![main page](photo/image1.png)
 
-### 📈 Category Trend
+### 📈 product
 ![product](photo/image2.png)
 
-### 📅 Monthly Metrics
+### 📅 geography
 ![geography](photo/image3.png)
 
 
 
-## 🔗 Project Files & Links
 
-- 📎 [Download Power BI File](https://github.com/YourUsername/YourRepoName/blob/main/SalesDashboard.pbix)
 
----
 
 ## 🙋‍♀️ About Me
 
